@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568549293649.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "84961C77",
+    "lastKnownWriteTime" : 1568565574,
+    "last_content_update" : 1568565574738,
+    "path" : "~/GitHub/SerenataDeAmor/ETL.R",
+    "project_path" : "ETL.R",
+    "properties" : {
+        "cursorPosition" : "5,5",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

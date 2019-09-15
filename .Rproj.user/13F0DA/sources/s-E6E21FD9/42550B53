@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568560125616.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "42550B53",
+    "lastKnownWriteTime" : 1976605715056,
+    "last_content_update" : 1568560125616,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "3b8f2b1c08954b0da4e9f4f5c4250a7b",
+        "name" : "reembolso",
+        "title" : "reembolso"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

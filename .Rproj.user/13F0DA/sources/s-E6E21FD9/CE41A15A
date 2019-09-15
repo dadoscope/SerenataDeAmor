@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568559501487.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CE41A15A",
+    "lastKnownWriteTime" : 1568558392,
+    "last_content_update" : 1568559501487,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7950F491",
+        "caption" : "df_reembolso",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=df_reembolso&cache_key=7950F491",
+        "displayedObservations" : 600,
+        "environment" : "",
+        "expression" : "df_reembolso",
+        "object" : "df_reembolso",
+        "preview" : 0,
+        "totalObservations" : 600,
+        "variables" : 7
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
